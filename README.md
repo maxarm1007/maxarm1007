@@ -1,4 +1,4 @@
-<h1>Hi, I'm Max! <br/><a href="https://github.com/maxarm1007">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Max! <br/><a href="https://github.com/maxarm1007">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Financial Crime</a>, 
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
