@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python Projects</b>
-  - [Stock Price Prediction](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
 
 
 <h2> 🤳 Connect with me:</h2>
