@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python Projects</b>
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
