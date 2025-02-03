@@ -6,6 +6,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python Projects</b>
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
+  - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
+
 
 
 <h2> 🤳 Connect with me:</h2>
