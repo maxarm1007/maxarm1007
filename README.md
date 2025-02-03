@@ -7,7 +7,7 @@
 - <b>Python Projects</b>
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
   - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
-  - [Time Series Forecasting with Prophet](https://github.com/maxarm1007/Time-Series-forecasting-with-Prophet)
+  - [Time Series Forecasting with Prophet + Sklearn](https://github.com/maxarm1007/Time-Series-forecasting-with-Prophet)
 
 
 
