@@ -1,4 +1,4 @@
-<h1>Hi, I'm Max! <br/><a href="https://github.com/maxarm1007">Data Analyst</a>, <a href="https://www.linkedin.com/in/marmstrong25/">Machine Learning</a>
+<h1>Hi, I'm Max! <br/><a href="https://github.com/maxarm1007">Data Science</a>, <a href="https://www.linkedin.com/in/marmstrong25/">Machine Learning</a>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
@@ -7,6 +7,7 @@
 - <b>Python Projects</b>
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
   - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
+  - [Time Series Forecasting with Prophet](https://github.com/maxarm1007/Time-Series-forecasting-with-Prophet)
 
 
 
