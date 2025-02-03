@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data Structures and Algorithms</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python Projects</b>
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
   - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
