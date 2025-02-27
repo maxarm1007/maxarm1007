@@ -5,9 +5,8 @@
 - <b>Python Projects</b>
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
   - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
-  - [Time Series Forecasting with Prophet + Sklearn](https://github.com/maxarm1007/Time-Series-forecasting-with-Prophet)
 - <b>SQL and PowerBI</b>
-  - [Fraud Detection Software Data Analysis(SQLite and PowerBI]
+  - [Fraud Detection Software Data Analysis(SQLite and PowerBI)](https://github.com/maxarm1007/Fraud-Detection-Software-Analysis-)
 
 
 <h2> 🤳 Connect with me:</h2>
