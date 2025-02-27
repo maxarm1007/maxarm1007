@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
+- <b>SQL and PowerBI</b>
+  - [Fraud Detection Software Data Analysis(SQLite and PowerBI)](https://github.com/maxarm1007/Fraud-Detection-Software-Analysis-)
 - <b>Python Projects</b>
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
   - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
-- <b>SQL and PowerBI</b>
-  - [Fraud Detection Software Data Analysis(SQLite and PowerBI)](https://github.com/maxarm1007/Fraud-Detection-Software-Analysis-)
 
 
 <h2> 🤳 Connect with me:</h2>
