@@ -7,7 +7,7 @@
   - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
   - [Time Series Forecasting with Prophet + Sklearn](https://github.com/maxarm1007/Time-Series-forecasting-with-Prophet)
 - <b>SQL and PowerBI</b>
-  - [HR DashBoard(MySQL and PowerBI]
+  - [Fraud Detection Software Data Analysis(SQLite and PowerBI]
 
 
 <h2> 🤳 Connect with me:</h2>
