@@ -5,8 +5,8 @@
 - <b>SQL and PowerBI</b>
   - [Fraud Detection Software Data Analysis](https://github.com/maxarm1007/Fraud-Detection-Software-Analysis-)
 - <b>Python Projects</b>
-  - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
   - [London House Prices Analysis & Prediction](https://github.com/maxarm1007/London-House-Prices-Analysis-Prediction)
+  - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
   
 
