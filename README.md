@@ -9,7 +9,7 @@
   - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
 - <b>Data Engineering<b>
-  - [End-to-End Data Engineering Pipeline: How the Stock Market is affected by Economic Indicators]
+  - [End-to-End Data Engineering Pipeline: How the Stock Market is affected by Economic Indicators](https://github.com/maxarm1007/End-to-End-Data-Engineering-Pipeline-How-the-Stock-Market-is-affected-by-Economic-Indicators)
   
 
 
