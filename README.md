@@ -8,6 +8,8 @@
   - [London House Prices Analysis & Prediction](https://github.com/maxarm1007/London-House-Prices-Analysis-Prediction)
   - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
+- <b>Data Engineering<b>
+  - [End-to-End Data Engineering Pipeline: How the Stock Market is affected by Economic Indicators]
   
 
 
