@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>SQL and PowerBI</b>
+- <b>SQL and PowerBI:</b>
   - [Fraud Detection Software Data Analysis](https://github.com/maxarm1007/Fraud-Detection-Software-Analysis-)
-- <b>Python Projects</b>
+- <b>Python Projects:</b>
   - [London House Prices Analysis & Prediction](https://github.com/maxarm1007/London-House-Prices-Analysis-Prediction)
-  - [News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
+  - [Financial News Sentiment Analysis](https://github.com/maxarm1007/News-Sentiment-Analysis-)
   - [Stock Price Prediction](https://github.com/maxarm1007/Stock-Price-Prediction)
-- <b>Data Engineering</b>
+- <b>Data Engineering:</b>
   - [End-to-End Data Engineering Pipeline: How the Stock Market is affected by Economic Indicators](https://github.com/maxarm1007/End-to-End-Data-Engineering-Pipeline-How-the-Stock-Market-is-affected-by-Economic-Indicators)
   - [Blockchain Transaction Analysis in Azure Databricks](https://github.com/maxarm1007/Blockchain-Transaction-Analysis-in-Azure-Databricks)
   
