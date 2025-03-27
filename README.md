@@ -1,6 +1,6 @@
 <h1>Hi, I'm Max <br/> <a href="https://www.linkedin.com/in/marmstrong25/">Data Analytics</a>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>SQL and PowerBI:</b>
   - [Fraud Detection Software Data Analysis](https://github.com/maxarm1007/Fraud-Detection-Software-Analysis-)
