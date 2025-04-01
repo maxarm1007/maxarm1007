@@ -1,4 +1,6 @@
-<h1>Hi, I'm Max <br/> <a href="https://www.linkedin.com/in/marmstrong25/">Data Analytics</a>
+<h1>Hi, I'm Max <br/> <a href="https://www.linkedin.com/in/marmstrong25/">Data Analytics</a></h1>
+
+Passionate Data Analyst with experience in Power BI, SQL, Python, Azure and Databricks, helping businesses turn raw data into actionable insights.
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -18,7 +20,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<h3>https://www.linkedin.com/in/marmstrong25
+<b>[LinkedIn](https://www.linkedin.com/in/marmstrong25)</b>
+<h3>maxarmstrong1007@gmail.com</h3>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
