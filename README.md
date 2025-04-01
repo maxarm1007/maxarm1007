@@ -20,8 +20,8 @@ Passionate Data Analyst with experience in Power BI, SQL, Python, Azure and Data
 
 <h2> 🤳 Connect with me:</h2>
 
-<b>[LinkedIn](https://www.linkedin.com/in/marmstrong25)</b>
-<h3>maxarmstrong1007@gmail.com</h3>
+- <b>[LinkedIn](https://www.linkedin.com/in/marmstrong25)<b>
+- <b>maxarmstrong1007@gmail.com</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
