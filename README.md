@@ -1,6 +1,6 @@
 <h1>Hi, I'm Max <br/> <a href="https://www.linkedin.com/in/marmstrong25/">Data Analytics</a></h1>
 
-Passionate Data Analyst with experience in Power BI, SQL, Python, Azure and Databricks, helping businesses turn raw data into actionable insights.
+Passionate Data Analyst with experience in SQL, Python, Power BI, Azure and Databricks, helping businesses turn raw data into actionable insights.
 
 <h2>👨‍💻 Projects:</h2>
 
